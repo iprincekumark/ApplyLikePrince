@@ -1,0 +1,44 @@
+# ApplyLikePrince
+# Auto-apply to jobs with AI
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+frontend/dist/
+backend/target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test
+coverage/
+.nyc_output/
+
+# Uploads
+uploads/
+*.pdf
+*.docx
+
+# Temporary
+tmp/
+temp/
+*.tmp
