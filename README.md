@@ -9,7 +9,7 @@
 
 ---
 
-## 📸 Demo
+## 📸 Demo 
 
 <div align="center">
   <img src="frontend/public/landing-screenshot.png" alt="ApplyLikePrince Landing Page" width="800" />
